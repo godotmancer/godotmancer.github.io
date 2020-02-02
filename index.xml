@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>GodotMancer on GodotMancer</title>
+        <link>https://godotmancer.github.io/</link>
+        <description>Recent content in GodotMancer on GodotMancer</description>
+        <generator>Hugo -- gohugo.io</generator>
+        
+            <language>en-us</language>
+        
+        
+        
+        
+            <lastBuildDate>Sat, 01 Feb 2020 15:39:55 +0200</lastBuildDate>
+        
+        <atom:link href="https://godotmancer.github.io/" rel="self" type="application/rss+xml" />
+        
+            <item>
+                <title>Posts</title>
+                <link>https://godotmancer.github.io/posts/</link>
+                <pubDate>Sat, 01 Feb 2020 15:39:55 +0200</pubDate>
+                
+                <guid>https://godotmancer.github.io/posts/</guid>
+                <description></description>
+            </item>
+        
+    </channel>
+</rss>
